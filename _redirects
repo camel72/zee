@@ -1,4 +1,1 @@
-[[redirects]]
-    from = "/contact.html"
-    to = "/index.html"
-    status = 302
+/contact.html to  /index.html  301
