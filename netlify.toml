@@ -1,5 +1,2 @@
 [form]
-contact = {
-    to = "kristof.camelbeke@gmail.com"
-    redirect = "/index.html"
-}
+contact = { to = "kristof.camelbeke@gmail.com", redirect = "/index.html" }
