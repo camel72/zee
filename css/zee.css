@@ -10,18 +10,19 @@ html {
 }
 
 .custom-h1 {
-    color: #d63384 !important;
+    color: #d63384;
     font-size: 100px;
     font-family: 'Playfair Display', Serif;
 }
 
 .custom-h2 {
-    color: #d63384 !important;
+    color: #d63384;
     font-family: 'Open Sans';
 }
 
 .home {
     background-image: url('../img/image_sea.png');
     background-size: cover;
-    background-position: center;
+    background-position: center center;
+    background-repeat: no-repeat;
 }
