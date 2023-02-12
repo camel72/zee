@@ -1,21 +1,27 @@
-/*html {*/
-/*    height: 100%;*/
-/*}*/
-/*body {*/
-/*    height: 100%;*/
-/*    margin: 0;*/
-/*    background-repeat: no-repeat;*/
-/*    background-attachment: fixed;*/
-/*}*/
-
 html {
     min-height: 100%;
 }
-
 
 #carouselAppartment .carousel-item img {
     object-fit: cover;
     object-position: center;
     height: 90vh;
     overflow: hidden;
+}
+
+.custom-h1 {
+    color: #d63384 !important;
+    font-size: 100px;
+    font-family: 'Playfair Display', Serif;
+}
+
+.custom-h2 {
+    color: #d63384 !important;
+    font-family: 'Open Sans';
+}
+
+.home {
+    background-image: url('../img/image_sea.png');
+    background-size: cover;
+    background-position: center;
 }
