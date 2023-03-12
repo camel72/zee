@@ -16,7 +16,7 @@ html {
 }
 
 .custom-h2 {
-    color: #c996a2;;
+    color: #c996a2;
     font-family: 'Open Sans';
 }
 
@@ -30,4 +30,9 @@ html {
 .navbar-brand-text-style {
     font-family: sans-serif;
     font-size: 1.5rem;
+}
+
+.contact-link {
+    color: #6a1a21;
+    font-weight: bold;
 }
