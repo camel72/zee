@@ -37,11 +37,6 @@ html {
     font-weight: bold;
 }
 
-.tracking-badge {
-    width: 1px;
-    height: 1px;
-    position: absolute;
-    top: -9999px;
-    left: -9999px;
-    visibility: hidden;
+.clicky-badge {
+    display: none !important;
 }
