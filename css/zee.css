@@ -40,3 +40,19 @@ html {
 .clicky-badge {
     display: none !important;
 }
+
+.price-center {
+    text-align: left !important;
+}
+.holidayPeriod li > span:first-child{
+    padding-left: 1rem;
+    text-align: left !important;
+    width: 6rem !important;
+    display: inline-block;
+}
+
+.holidayPeriod li > span:nth-child(2){
+    text-align: right !important;
+    display: inline-block;
+    width: 6rem !important;
+}
