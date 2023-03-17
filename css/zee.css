@@ -41,18 +41,29 @@ html {
     display: none !important;
 }
 
-.price-center {
-    text-align: left !important;
+.card-holiday-period {
+    flex: 1 1 auto;
+    padding: 1rem 1rem;
+    background-color: #f3e7e7;
 }
-.holidayPeriod li > span:first-child{
+
+.price-center {
+    text-align: left;
+}
+
+.holiday-period-heading {
     padding-left: 1rem;
-    text-align: left !important;
-    width: 6rem !important;
+}
+
+.holiday-period-list li > span:first-child {
+    padding-left: 1rem;
+    text-align: left;
+    width: 6rem;
     display: inline-block;
 }
 
-.holidayPeriod li > span:nth-child(2){
-    text-align: right !important;
+.holiday-period-list li > span:nth-child(2) {
+    text-align: right;
     display: inline-block;
-    width: 6rem !important;
+    width: 6rem;
 }
